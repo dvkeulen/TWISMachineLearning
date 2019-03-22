@@ -1,6 +1,7 @@
 *.pptx
 Week 2/.ipynb_checkpoints/SKLearn - Text Classification - Filled-checkpoint.ipynb
 *.txt
+*.docx
 Week 6/PCA - in Python and sklearn.ipynb
 Week 6/kmeans_clustering.png
 Week 6/K-Means - Elbow method.ipynb
