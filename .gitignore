@@ -1,8 +1,5 @@
-
-*.csv
 *.pptx
 Week 2/.ipynb_checkpoints/SKLearn - Text Classification - Filled-checkpoint.ipynb
-*.docx
 *.txt
 Week 6/PCA - in Python and sklearn.ipynb
 Week 6/kmeans_clustering.png
