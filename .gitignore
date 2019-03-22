@@ -1,0 +1,23 @@
+
+*.csv
+*.pptx
+Week 2/.ipynb_checkpoints/SKLearn - Text Classification - Filled-checkpoint.ipynb
+*.docx
+*.txt
+Week 6/PCA - in Python and sklearn.ipynb
+Week 6/kmeans_clustering.png
+Week 6/K-Means - Elbow method.ipynb
+Week 6/K-Means - calculate SSW, SSB, SST (single k).ipynb
+Week 6/.ipynb_checkpoints/K-Means - calculate SSW, SSB, SST (single k)-checkpoint.ipynb
+Week 6/.ipynb_checkpoints/Huiswerk week 6-checkpoint.ipynb
+Week 6/.DS_Store
+Week 5/Linear regression - cross-validation en gridsearch voor bepalen hyperparameters.ipynb
+Week 5/Les week 5.ipynb
+Week 5/.ipynb_checkpoints/Les week 5-checkpoint.ipynb
+Week 4/decision_tree_classification_nominal_features.ipynb
+Week 4/decision_tree_classification_continuous_features.ipynb
+Week 4/.ipynb_checkpoints/decision_tree_classification_nominal_features-checkpoint.ipynb
+Week 4/.DS_Store
+Week 2/SKLearn - Text Classification.ipynb
+Week 2/SKLearn - Text Classification - Filled.ipynb
+Week 2/.ipynb_checkpoints/SKLearn - Text Classification-checkpoint.ipynb
